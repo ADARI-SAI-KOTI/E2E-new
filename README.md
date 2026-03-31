@@ -131,7 +131,7 @@ npm start
 
 ## 👨‍💻 Author
 
-Developed by *Your Name*
+Developed by TEAM-12(AOT)
 
 ---
 
